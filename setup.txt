@@ -1,0 +1,13 @@
+ID = 5678
+AP = 2
+NO = 0
+BD = 7
+PL = 0
+
+Coordinator:
+  NI = IGOR
+
+End device:
+  NI = ROBOT
+  D7 = 0
+  SM = 4
